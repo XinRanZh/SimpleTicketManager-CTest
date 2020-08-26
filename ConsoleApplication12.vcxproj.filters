@@ -21,6 +21,21 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="management.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="logincontrol.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="regctrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="usermain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
